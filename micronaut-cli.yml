@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: be.pulsarlab
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [acme, app-name, config-kubernetes, data, data-jpa, discovery-kubernetes, gradle, http-client, http-client-test, java, java-application, jdbc-hikari, jib, junit, kubernetes, liquibase, lombok, management, micrometer, micrometer-prometheus, micronaut-aot, micronaut-build, micronaut-http-validation, nats, netty-server, openapi, postgres, problem-json, properties, readme, security-annotations, security-jwt, security-oauth2, serialization-jackson, shade, slf4j-simple, swagger-ui, test-resources, tracing-opentelemetry-annotations, tracing-opentelemetry-exporter-jaeger, tracing-opentelemetry-http, tracing-opentelemetry-jaeger, websocket]
